@@ -1,16 +1,20 @@
 let socials = {
     facebook: {
-      url: 'https://www.facebook.com/neith.altair.7',
-      icon: 'https://drupal.ed.team/sites/default/files/social-icons/facebook-icon.png'
+      url: '',
+      icon: 'https://www.flaticon.es/premium-icon/icons/svg/2504/2504965.svg'
     } ,
     linkedin: {
       url: 'https://www.linkedin.com/in/neith-altair-machuca-bernal-84a1a3151/',
-      icon: 'https://drupal.ed.team/sites/default/files/social-icons/linkedin-icon.png'
+      icon: 'https://www.flaticon.es/premium-icon/icons/svg/2504/2504923.svg'
     },
     github: {
       url: 'https://github.com/neithaltair',
-      icon: 'https://drupal.ed.team/sites/default/files/social-icons/github-icon.png'
-    } 
+      icon: 'https://www.flaticon.es/premium-icon/icons/svg/2504/2504911.svg'
+    },
+    whatsap: {
+      url: '',
+      icon: 'https://www.flaticon.es/premium-icon/icons/svg/2504/2504957.svg'
+    }
   }
   
   let socialIcons = '';
